@@ -9,11 +9,16 @@
     font-weight: 700;
 }
 
+.web-option a:hover {
+    transform: scale(1.1);
+}
+
 .web-option a{
     text-decoration: none;
     color: blue;
     display: flex;
     align-items: center;
+    transition: all .2s ease-in-out;
 }
 
 .option-icon{

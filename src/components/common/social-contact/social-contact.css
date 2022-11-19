@@ -7,6 +7,14 @@
     padding: 6px;
     cursor: pointer;
     margin: 6px;
+    transition: all .3s ease-in-out;
+}
+
+.social-icon-div:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transition: .3s ease;
+    transform: scale(1.1);
 }
 
 .social-icons {

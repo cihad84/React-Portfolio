@@ -10,14 +10,19 @@ export const SkillsData = [
         name: "HTML5",
         icon: <i class="devicon-html5-plain colored"></i>
         },
+        {
+          name: "CSS3",
+          icon: <i class="devicon-css3-plain"></i>
+        },
       {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
       },
       {
-        name: "TailwindCSS",
-        icon: <i class="devicon-tailwindcss-plain colored"></i>
+        name: "Node.js",
+        icon: <i class="devicon-nodejs-plain"></i>
       },
+
     ],
   },
   {
@@ -28,12 +33,9 @@ export const SkillsData = [
         icon: <i class="devicon-firebase-plain colored"></i>
       },
       {
-        name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain colored"></i>
-      },
-      {
-        name: "Azure",
-        icon: <i class="devicon-azure-plain colored"></i>
+        name: "AWS",
+        icon: <i class="devicon-amazonwebservices-original"></i>
+
       },
     ],
   },

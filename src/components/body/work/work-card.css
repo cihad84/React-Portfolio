@@ -38,3 +38,14 @@
         width: 100%;
     }
 }
+
+.company-name{
+    font-family: Georgia, sans-serif;
+    font-size: 2em;
+    letter-spacing: -2px;
+}
+
+.work-dates{
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+}
